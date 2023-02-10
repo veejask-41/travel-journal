@@ -1,0 +1,16 @@
+.nav-bar {
+    background-color: #F55A5A;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar-logo {
+    margin-right: 10px;
+}
